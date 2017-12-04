@@ -14,6 +14,8 @@ The cover image is saved in svg format. To export PNG, use File - Export PNG Ima
 Do not insert an image and crop within the document. Please try to create a Krita (kra) file with the image, crop there, export and then use in the document.
 
 # How to edit the book document
+Before opening the book document, install font files from `assets/fonts/install` directory. All the fonts in the subdirectories are needed.
+
 The book document strictly follows the styling. Please use appropriate styles from View - Styles and Formatting whenever possible.
 
 # Exporting the book
