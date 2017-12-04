@@ -1,0 +1,9 @@
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# Temporary files
+*.kra~
+*.png~
+*.bak
+*.odt#

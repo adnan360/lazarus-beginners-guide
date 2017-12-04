@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.2700005in"
+   height="11.69in"
+   viewBox="0 0 210.05801 296.926"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="cover-1.svg"
+   inkscape:export-filename="/home/zate/rocket-1.svg.png"
+   inkscape:export-xdpi="149.98094"
+   inkscape:export-ydpi="149.98094">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#2d262b"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="190.49718"
+     inkscape:cy="128.43736"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     style="display:inline"
+     transform="translate(0,-0.07398322)">
+    <rect
+       style="opacity:1;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:2.95264626;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect890"
+       width="209.84163"
+       height="299.35715"
+       x="0"
+       y="0.66666663" />
+    <path
+       style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:2.352;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 102.05165,198.32254 c -13.671513,0.0151 -26.164379,6.71336 -32.286916,17.31109 -0.902851,-0.12943 -1.813367,-0.19814 -2.725415,-0.20567 -6.140593,0.006 -11.951708,2.77812 -15.819707,7.54734 -0.427789,-0.0349 -0.85657,-0.0563 -1.285708,-0.0641 -10.157532,0.0122 -18.757511,7.49775 -20.170347,17.55655 -2.13189,-1.33708 -4.596259,-2.04896 -7.112744,-2.05465 -6.162163,0.008 -11.530005,4.20426 -13.0250442,10.18232 C 5.8736983,248.81072 2.3830275,250.58669 0,253.49282 v 46.53099 h 209.84197 v -60.63504 c -2.83969,-2.68317 -6.59745,-4.17966 -10.50427,-4.18321 -4.6562,0.006 -9.05686,2.12964 -11.95844,5.77122 -0.10381,-8.82433 -7.28519,-15.92416 -16.11013,-15.92719 -1.6244,0.006 -3.23858,0.25727 -4.78782,0.74569 -0.91278,-12.76883 -11.53767,-22.66169 -24.33908,-22.66218 -5.11427,0.0109 -10.09584,1.62842 -14.241,4.62401 -6.80167,-6.03167 -16.11994,-9.43265 -25.84958,-9.43457 z"
+       id="path871"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+    <rect
+       style="opacity:1;fill:#280b0b;fill-opacity:1;stroke:none;stroke-width:2.352;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1028"
+       width="210.07385"
+       height="9.5531301"
+       x="0"
+       y="281.61926" />
+  </g>
+  <g
+     inkscape:label="rocket"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,-0.07398322)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path836"
+       d="m 105.47294,213.72068 a 16.513663,31.324563 0 0 1 -9.211114,-28.07624 16.513663,31.324563 0 0 1 2.169045,-15.43404 h 14.126249 a 16.513663,31.324563 0 0 1 2.15237,15.43404 16.513663,31.324563 0 0 1 -9.23655,28.07624 z"
+       style="opacity:1;fill:#ff9955;fill-opacity:1;stroke:#c87137;stroke-width:2.2961731;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:40;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers" />
+    <path
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.37905228;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:40;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+       d="m 105.46757,195.3328 a 9.9178956,18.813134 0 0 1 -5.532075,-16.86223 9.9178956,18.813134 0 0 1 1.302695,-9.26949 h 8.48405 a 9.9178956,18.813134 0 0 1 1.29269,9.26949 9.9178956,18.813134 0 0 1 -5.54736,16.86223 z"
+       id="path838"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#e3dbdb;fill-opacity:1;stroke:#916f6f;stroke-width:2.44289804;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.02139,160.94492 11.1503,10.01637 -6.23661,31.18303 -8.12649,-32.12798 z"
+       id="path840"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path842"
+       d="m 85.9786,160.94492 -11.150294,10.01637 6.236607,31.18303 8.126484,-32.12798 z"
+       style="fill:#e3dbdb;fill-opacity:1;stroke:#916f6f;stroke-width:2.44289804;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#e3dbdb;fill-opacity:1;stroke:#916f6f;stroke-width:4.21560621;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:16;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+       d="m 105.05844,84.701285 a 34.173302,64.822913 0 0 0 -19.061445,58.100885 34.173302,64.822913 0 0 0 4.488612,31.93913 h 29.232803 a 34.173302,64.822913 0 0 0 4.4541,-31.93913 34.173302,64.822913 0 0 0 -19.11407,-58.100885 z"
+       id="path815"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:1;fill:#ffd5d5;fill-opacity:1;stroke:#ff8080;stroke-width:2.352;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path844"
+       cx="105.68952"
+       cy="115.20975"
+       r="7.7485118" />
+    <path
+       style="opacity:1;fill:#c8b7b7;fill-opacity:1;stroke:none;stroke-width:4.76031733;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:40;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+       d="m 85.937769,142.23499 a 34.233115,64.93637 0 0 0 -0.0021,0.56839 34.233115,64.93637 0 0 0 0.591177,11.54816 h 37.059464 a 34.233115,64.93637 0 0 0 0.59169,-11.54816 34.233115,64.93637 0 0 0 -0.0156,-0.56839 z"
+       id="path865"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="texts"
+     transform="translate(0,-0.07398322)"
+     style="display:inline">
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-0.58259044,26.028468)"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:0.75999999;font-family:Jomhuria;-inkscape-font-specification:'Jomhuria Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ff2a2a;fill-opacity:1;stroke:none"
+       id="flowRoot908"
+       xml:space="preserve"><flowRegion
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:0.75999999;font-family:Jomhuria;-inkscape-font-specification:'Jomhuria Italic';text-align:center;text-anchor:middle;fill:#ff2a2a"
+         id="flowRegion904"><rect
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:0.75999999;font-family:Jomhuria;-inkscape-font-specification:'Jomhuria Italic';text-align:center;text-anchor:middle;fill:#ff2a2a"
+           y="35.595547"
+           x="36.36549"
+           height="247.48738"
+           width="718.21844"
+           id="rect902" /></flowRegion><flowPara
+         id="flowPara906"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75999999;font-family:Jomhuria;-inkscape-font-specification:'Jomhuria Italic';fill:#ff2a2a">Beginners' Guide to Lazarus IDE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot956"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.2769598,-23.8125)"><flowRegion
+         id="flowRegion958"
+         style="text-align:center;text-anchor:middle;fill:#ffffff"><rect
+           id="rect960"
+           width="469.72095"
+           height="84.852814"
+           x="170.71577"
+           y="264.90018"
+           style="text-align:center;text-anchor:middle;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara962"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Economica;-inkscape-font-specification:Economica;fill:#ffffff">by Adnan Shameem</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot946"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:0.75;font-family:'Encode Sans';-inkscape-font-specification:'Encode Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffd5d5;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,6.9146064,34.106851)"><flowRegion
+         id="flowRegion948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:'Encode Sans';-inkscape-font-specification:'Encode Sans';text-align:center;text-anchor:middle;fill:#ffd5d5"><rect
+           id="rect950"
+           width="457.05453"
+           height="155.31834"
+           x="135.36044"
+           y="932.61102"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.75;font-family:'Encode Sans';-inkscape-font-specification:'Encode Sans';text-align:center;text-anchor:middle;fill:#ffd5d5" /></flowRegion><flowPara
+         id="flowPara952"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:0.75;font-family:Economica;-inkscape-font-specification:'Economica Italic';fill:#ffd5d5">Your first guide to reach the planet of Lazarus Users</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot996"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.0796773,-26.458334)"><flowRegion
+         id="flowRegion998"><rect
+           id="rect1000"
+           width="692.85712"
+           height="132.85715"
+           x="58.57143"
+           y="1009.6625" /></flowRegion><flowPara
+         id="flowPara1002" /><flowPara
+         id="flowPara1004"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:Economica;-inkscape-font-specification:'Economica Italic';text-align:center;text-anchor:middle">Conquering Lazarus in bite-size chunks!</flowPara></flowRoot>  </g>
+</svg>
