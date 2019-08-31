@@ -1,5 +1,5 @@
 # File Formats:
-odt - can be opened with [LibreOffice](https://www.libreoffice.org/download/download/). Still (stable) versions are preferred when editing (choose the earliest version from the page).
+odt/fodt - can be opened with [LibreOffice](https://www.libreoffice.org/download/download/). Still (stable) versions are preferred when editing (choose the earliest version from the page).
 svg - can be opened with [Inkscape](https://inkscape.org/en/).
 kra - can be opened with [Krita](https://krita.org/en/download/krita-desktop/).
 Outputs:
